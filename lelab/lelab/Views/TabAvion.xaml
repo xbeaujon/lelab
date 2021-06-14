@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Title="Avion"
+             BackgroundColor="#e7e0cc"
+             x:Class="lelab.Views.TabAvion">
+    <ContentPage.Content>
+        <Grid >
+            <Image x:Name="avionImage" Source="lab_avion.png" Margin="30,0"/>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

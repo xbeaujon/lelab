@@ -66,6 +66,9 @@
     <Compile Include="Main.cs" />
     <Compile Include="AppDelegate.cs" />
     <None Include="Entitlements.plist" />
+    <BundleResource Include="HelveticaNeue-Thin.ttf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </BundleResource>
     <None Include="Info.plist" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -132,5 +135,26 @@
       <Project>{8E5CEA16-3E6D-48C3-99D6-A14BFD1221FA}</Project>
       <Name>lelab</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="lab_separator.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="lab_logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="lab_voiture.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="lab_avion.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="lab_icon_voiture%403x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="lab_icon_avion%403x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="lab_icon_compteur%403x.png" />
   </ItemGroup>
 </Project>
