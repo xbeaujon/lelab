@@ -22,7 +22,7 @@
             <StackLayout Margin="30,0"  Orientation="Vertical" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
                 <Button Margin="0,20,0,0" Style="{StaticResource boutonLabStyle}" BackgroundColor="#c1ab24" Text="COMPTEUR" Clicked="CounterButtonClicked"/>
                 <Button Margin="0,10,0,0" Style="{StaticResource boutonLabStyle}" BackgroundColor="#a4881c" Text="TABS" Clicked="TabsButtonClicked"/>
-                <Button Margin="0,10,0,0" Style="{StaticResource boutonLabStyle}" BackgroundColor="#BE4F2D" Text="LISTE" Clicked="ListButtonClicked"/>
+                <Button Margin="0,10,0,0" Style="{StaticResource boutonLabStyle}" BackgroundColor="#C60E3C" Text="LISTE" Clicked="ListButtonClicked"/>
             </StackLayout>
 
 

@@ -28,7 +28,7 @@ namespace lelab.Views
 
         private void ListButtonClicked(object sender, EventArgs e)
         {
-
+            this.Navigation.PushAsync(new ListPage());
         }
     }
 }

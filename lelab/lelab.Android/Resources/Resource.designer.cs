@@ -11800,13 +11800,16 @@ namespace lelab.Droid
 			public const int notify_panel_notification_icon_bg = 2131165331;
 			
 			// aapt resource value: 0x7F070094
-			public const int test_custom_background = 2131165332;
+			public const int splash = 2131165332;
 			
 			// aapt resource value: 0x7F070095
-			public const int tooltip_frame_dark = 2131165333;
+			public const int test_custom_background = 2131165333;
 			
 			// aapt resource value: 0x7F070096
-			public const int tooltip_frame_light = 2131165334;
+			public const int tooltip_frame_dark = 2131165334;
+			
+			// aapt resource value: 0x7F070097
+			public const int tooltip_frame_light = 2131165335;
 			
 			static Drawable()
 			{
@@ -13272,7 +13275,10 @@ namespace lelab.Droid
 			public const int icon_round = 2131492865;
 			
 			// aapt resource value: 0x7F0C0002
-			public const int launcher_foreground = 2131492866;
+			public const int launcher_background = 2131492866;
+			
+			// aapt resource value: 0x7F0C0003
+			public const int launcher_foreground = 2131492867;
 			
 			static Mipmap()
 			{
@@ -14473,6 +14479,9 @@ namespace lelab.Droid
 			
 			// aapt resource value: 0x7F0F0115
 			public const int ShapeAppearance_MaterialComponents_Tooltip = 2131689749;
+			
+			// aapt resource value: 0x7F0F02BF
+			public const int splashscreen = 2131690175;
 			
 			// aapt resource value: 0x7F0F012A
 			public const int TestStyleWithLineHeight = 2131689770;
